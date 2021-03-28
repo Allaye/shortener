@@ -1,2 +1,3 @@
 # shortener
-A personal URL-Shortener service
+A personal URL-Shortener service, built with node 
+
