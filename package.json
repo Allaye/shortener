@@ -1,0 +1,28 @@
+{
+  "name": "shortener",
+  "version": "1.0.0",
+  "description": "A node app for url shortening, comes with other features ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allaye/shortener.git"
+  },
+  "author": "Allaye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Allaye/shortener/issues"
+  },
+  "homepage": "https://github.com/Allaye/shortener#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
